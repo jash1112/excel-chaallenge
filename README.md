@@ -9,4 +9,5 @@
 The dataset provides limited information about the campaigns, and there may be other factors that influence campaign success that are not included in the dataset, such as marketing strategies, campaign duration, or the creator's reputation.
 
 **Possible additional tables and graphs for further analysis**
+
 Creating a world map or a bar graph showing the distribution of backers by country for each campaign. This can help identify which countries have the most active crowdfunding communities and may impact a campaign's success.
